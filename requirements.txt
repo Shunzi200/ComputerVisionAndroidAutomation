@@ -1,0 +1,6 @@
+requests
+Pillow
+numpy
+pywin32  # This should cover win32ui and win32gui
+opencv-python  # This is for cv2
+art
